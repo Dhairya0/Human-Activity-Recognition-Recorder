@@ -13,4 +13,4 @@
 <img src="https://user-images.githubusercontent.com/85548288/214701821-54741a5d-cb00-46b9-a007-0d0cdd11cd60.png" width=20% height=20%>
 # Links
 Download project : [Human Activity Dataset Record]([https://github.com/Dhairya0/Foodif](https://github.com/Dhairya0/Human-Activity-Recognition-Recorder) .
-Contributors: [Dhaizrya Gajjar](https://github.com/Dhairya0).
+Contributors: [Dhairya Gajjar](https://github.com/Dhairya0).
