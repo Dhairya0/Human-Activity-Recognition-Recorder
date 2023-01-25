@@ -1,7 +1,6 @@
 # Human-Activity-Recognition-Recorder
 # Home Page
 <img src="https://user-images.githubusercontent.com/85548288/214701332-aa9c94f4-29a7-479c-860b-53604e132cc3.png" width=50% height=50%>
-![Screenshot_20230126_032753](https://user-images.githubusercontent.com/85548288/214701332-aa9c94f4-29a7-479c-860b-53604e132cc3.png)
 # Activity Drop down list
 <img src="https://user-images.githubusercontent.com/85548288/214701447-0514f7c6-db25-4e71-a635-32e951f82ba4.png" width=50% height=50%>
 # File access Permission
