@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Human Activity Recognition</string>
+    <string name="record">Record</string>
+    <string name="recording">Stop</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyro">Gyroscope</string>
+    <string name="linear_acc">Linear Acceleration</string>
+    <string name="status_stopped">Hit record button to start</string>
+    <string name="rw_permission_string">Kindly allow read/write permission to save recorded dataset into external storage</string>
+    <string name="recording_stopped">Recording Stopped</string>
+    <string name="add_label">Add Label</string>
+</resources>
