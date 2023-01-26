@@ -14,4 +14,4 @@
 
 # Links
 Download project : [Foodify](https://github.com/Dhairya0/Foodify) .
-Contributors: [Dhairya Gajjar](https://github.com/Dhairya0), [Yash Gandhi](https://github.com/Yash851), [Kinana Hirani](https://github.com/kinanahirani), [Krish Gohil](https://github.com/19ce030).
+Contributors: [Dhairya Gajjar](https://github.com/Dhairya0)
