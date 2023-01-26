@@ -11,6 +11,7 @@
 <img src="https://user-images.githubusercontent.com/85548288/214701741-92a20a24-1607-480d-8b3f-6d1529ba7682.png" width=20% height=20%>
 # File Location (csv file)
 <img src="https://user-images.githubusercontent.com/85548288/214701821-54741a5d-cb00-46b9-a007-0d0cdd11cd60.png" width=20% height=20%>
+
 # Links
 Download project : [Foodify](https://github.com/Dhairya0/Foodify) .
-#Contributors: [Dhairya Gajjar](https://github.com/Dhairya0).
+Contributors: [Dhairya Gajjar](https://github.com/Dhairya0), [Yash Gandhi](https://github.com/Yash851), [Kinana Hirani](https://github.com/kinanahirani), [Krish Gohil](https://github.com/19ce030).
