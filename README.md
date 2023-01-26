@@ -1,4 +1,5 @@
 # Human-Activity-Recognition-Recorder
+### This is the Activity record Application. Choose or Add the category you want to record. The recorded dataset (csv file) will be saved in the files under the folder named HAR-Record.
 # Home Page
 <img src="https://user-images.githubusercontent.com/85548288/214701332-aa9c94f4-29a7-479c-860b-53604e132cc3.png" width=20% height=20%>
 # Activity Drop down list
